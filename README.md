@@ -1,6 +1,5 @@
-<div align="center" font-size=22px>
-# **Algorithmic fairness:**<br>A code-based primer for<br>public-sector data scientists<br>
-</div>
+
+# Algorithmic fairness:<br>A code-based primer for<br>public-sector data scientists<br>
 
 <span style="font-size:16px"><br>**Abstract:**<br>As the number of government algorithms grow, so does the need to evaluate algorithmic fairness. This paper has three goals. First, we ground the notion of algorithmic fairness in the context of disparate impact, arguing that for an algorithm to be fair, its predictions must generalize across different protected groups. Next, two algorithmic use cases are presented with code examples for how to evaluate fairness. Finally, we promote the concept of an open source repository of government algorithmic "scorecards", allowing stakeholders to compare across algorithms and use cases.</span>
 
