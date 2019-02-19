@@ -9,4 +9,4 @@
 
 <br>
 <br>
-_Our sincerest appreciation to Dr. Dyann Daley and Predict Align Prevent for their generous support of this work. We are also extremely grateful to Matt Harris for ensuring our code is in fact, replicable. Finally, we are immensely appreciative of the time and expertise of several reviewers including Drs. Dennis Culhane, Dyann Daley, John Landis, and Tony Smith._
+<italics>Our sincerest appreciation to Dr. Dyann Daley and Predict Align Prevent for their generous support of this work. We are also extremely grateful to Matt Harris for ensuring our code is in fact, replicable. Finally, we are immensely appreciative of the time and expertise of several reviewers including Drs. Dennis Culhane, Dyann Daley, John Landis, and Tony Smith.</italics>
